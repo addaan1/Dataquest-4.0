@@ -232,9 +232,15 @@ python advanced_nlp_processor.py
 
 ---
 
+```markdown
 ## 👥 Tim
 
-> Peserta Kompetisi Dataquest 4.0 — Objective Quest Track
+> **Manut Ae Team** — Peserta Kompetisi Dataquest 4.0 (Objective Quest Track)
+
+1. **Sahrul Adicandra Effendy** (Data Science Technology, Universitas Airlangga)
+2. **Muhammad Nauval Martha Aryasetya** (Data Science Technology, Universitas Airlangga)
+3. **Syachazriel Riezqan** (Data Science Technology, Universitas Airlangga)
+```
 
 ---
 
