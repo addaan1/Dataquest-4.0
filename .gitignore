@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts (large files)
+best_model.pth
+catboost_info/
+model_data/
+
+# Large data files (raw docs — too many for git)
+file_putusan/
+file_putusan_preprocessed/
+
+# Intermediate large CSVs
+preprocessed_extracted_features.csv
+preprocessed_extracted_features2.csv
+
+# Multiple submission attempts (keep only final)
+submission2.csv
+submission3.csv
+submission4.csv
+submission4.2.csv
+submission5.csv
+submission5.2.csv
+submission6.csv
+submission7.csv
+submission8.csv
+
+# Pycache
+*.pyc
